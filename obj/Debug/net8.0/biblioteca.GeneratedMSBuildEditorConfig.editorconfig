@@ -9,63 +9,63 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = biblioteca
 build_property.RootNamespace = biblioteca
-build_property.ProjectDir = C:\Users\dekla\Documents\c#\proyectosc#\Biblioteca\
+build_property.ProjectDir = C:\Users\dekla\Documents\c#\Biblioteca\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\dekla\Documents\c#\proyectosc#\Biblioteca
+build_property.MSBuildProjectDirectory = C:\Users\dekla\Documents\c#\Biblioteca
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/dekla/Documents/c\#/proyectosc\#/Biblioteca/Views/Libros/Index.cshtml]
+[C:/Users/dekla/Documents/c\#/Biblioteca/Views/Libros/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dekla/Documents/c\#/proyectosc\#/Biblioteca/Views/Login/Login.cshtml]
+[C:/Users/dekla/Documents/c\#/Biblioteca/Views/Login/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dekla/Documents/c\#/proyectosc\#/Biblioteca/Views/Shared/Error.cshtml]
+[C:/Users/dekla/Documents/c\#/Biblioteca/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dekla/Documents/c\#/proyectosc\#/Biblioteca/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/dekla/Documents/c\#/Biblioteca/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dekla/Documents/c\#/proyectosc\#/Biblioteca/Views/Usuario/Actualizar.cshtml]
+[C:/Users/dekla/Documents/c\#/Biblioteca/Views/Usuario/Actualizar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xBY3R1YWxpemFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dekla/Documents/c\#/proyectosc\#/Biblioteca/Views/Usuario/Creado.cshtml]
+[C:/Users/dekla/Documents/c\#/Biblioteca/Views/Usuario/Creado.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhZG8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dekla/Documents/c\#/proyectosc\#/Biblioteca/Views/Usuario/Create.cshtml]
+[C:/Users/dekla/Documents/c\#/Biblioteca/Views/Usuario/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dekla/Documents/c\#/proyectosc\#/Biblioteca/Views/Usuario/Delete.cshtml]
+[C:/Users/dekla/Documents/c\#/Biblioteca/Views/Usuario/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dekla/Documents/c\#/proyectosc\#/Biblioteca/Views/Usuario/Index.cshtml]
+[C:/Users/dekla/Documents/c\#/Biblioteca/Views/Usuario/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dekla/Documents/c\#/proyectosc\#/Biblioteca/Views/Usuario/Update.cshtml]
+[C:/Users/dekla/Documents/c\#/Biblioteca/Views/Usuario/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dekla/Documents/c\#/proyectosc\#/Biblioteca/Views/_ViewImports.cshtml]
+[C:/Users/dekla/Documents/c\#/Biblioteca/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dekla/Documents/c\#/proyectosc\#/Biblioteca/Views/_ViewStart.cshtml]
+[C:/Users/dekla/Documents/c\#/Biblioteca/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dekla/Documents/c\#/proyectosc\#/Biblioteca/Views/Shared/_Layout.cshtml]
+[C:/Users/dekla/Documents/c\#/Biblioteca/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-33ywkwv747
