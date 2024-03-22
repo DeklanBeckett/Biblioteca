@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dekla\\Documents\\c#\\proyectosc#\\Biblioteca\\biblioteca.csproj": {}
+    "C:\\Users\\dekla\\Documents\\c#\\Biblioteca\\biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dekla\\Documents\\c#\\proyectosc#\\Biblioteca\\biblioteca.csproj": {
+    "C:\\Users\\dekla\\Documents\\c#\\Biblioteca\\biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dekla\\Documents\\c#\\proyectosc#\\Biblioteca\\biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\dekla\\Documents\\c#\\Biblioteca\\biblioteca.csproj",
         "projectName": "biblioteca",
-        "projectPath": "C:\\Users\\dekla\\Documents\\c#\\proyectosc#\\Biblioteca\\biblioteca.csproj",
+        "projectPath": "C:\\Users\\dekla\\Documents\\c#\\Biblioteca\\biblioteca.csproj",
         "packagesPath": "C:\\Users\\dekla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dekla\\Documents\\c#\\proyectosc#\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\dekla\\Documents\\c#\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
