@@ -18,6 +18,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /home/riwip5-006/Documents/Biblioteca
 build_property._RazorSourceGeneratorDebug = 
 
+[/home/riwip5-006/Documents/Biblioteca/Views/Libros/Actualizar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGlicm9zL0FjdHVhbGl6YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/riwip5-006/Documents/Biblioteca/Views/Libros/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGlicm9zL0NyZWFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/riwip5-006/Documents/Biblioteca/Views/Libros/Eliminar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGlicm9zL0VsaW1pbmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/riwip5-006/Documents/Biblioteca/Views/Libros/Gestion.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGlicm9zL0dlc3Rpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

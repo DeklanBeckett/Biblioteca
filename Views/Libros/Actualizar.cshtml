@@ -1,0 +1,34 @@
+<div class="row">
+    <div class="col-md-3">
+        <h2>Actualizar Libro</h2>
+    </div>
+    <div class="col-md-9" style="border: 2px solid black; display: flex;">
+        <div style="margin: 30px;">
+            <label for="">Título</label><br>
+            <input type="text" id="nombre" name="nombre" placeholder="Deklan" required><br>
+            <label for="">Autor</label><br>
+            <input type="text" id="apellido" name="apellido" placeholder="Beckett" required><br>
+            <label for="">Genero</label><br>
+            <input type="text" id="correo" name="correo" placeholder="deklan@deklan" required><br>
+            <label for="">Editorial</label><br>
+            <input type="text" id="genero" name="genero" placeholder="M" required><br>
+            <label for="">Año Publicación</label><br>
+            <input type="date" id="fecha" name="fecha"required><br>
+            <label for="">Cantidad Copias</label><br>
+            <input type="Number" id="genero" name="genero" required><br>
+            <label for="">Idioma</label><br>
+            <input type="text" id="genero" name="genero" required><br>
+            
+            <input type="hidden" id="usuario_id" name="usuario_id">
+            <center>
+            
+            <a asp-controller="Usuario" asp-action="Actualizar"><button class="btn btn-warning">Actualizar Libro</button></a>
+            </center>
+        </div>
+        <div style="margin-left: 100px;">
+        
+            <img class="img img-fluid mt-3" width="150" src="https://www.rae.es/sites/default/files/portada_cien_anos_de_soledad_0.jpg" alt=""><br>
+            <input type="file" name="imagen_usuario" id="imagen_usuario">
+        </div>
+    </div>
+</div>
