@@ -1,0 +1,35 @@
+<div class="row">
+    <div class="col-md-3">
+        <h2>Registro usuario</h2>
+    </div>
+    <div class="col-md-9" style="border: 2px solid black; display: flex;">
+        <div style="margin: 30px;">
+            <label for="">Nombre</label><br>
+            <input type="text" id="nombre" name="nombre" required><br>
+            <label for="">Apellido</label><br>
+            <input type="text" id="apellido" name="apellido" required><br>
+            <label for="">Correo</label><br>
+            <input type="text" id="correo" name="correo" required><br>
+            <label for="">Genero</label><br>
+            <input type="text" id="genero" name="genero" required><br>
+            <label for="">Contacto</label><br>
+            <input type="number" id="contacto" name="contacto" required><br>
+            <label for="">Direccion</label><br>
+            <input type="text" id="direccion" name="direccion" required><br>
+            <label for="">Contacto Referencia 1</label><br>
+            <input type="number" id="contacto_referencia" name="contacto_referencia" required><br>
+            <label for="">Contacto Referencia 2</label><br>
+            <input type="number" id="contacto_referencia2" name="contacto_referencia2" required><br><br>
+            <center>
+            <a asp-controller="Usuario" asp-action="Index"><button class="btn btn-primary">Crear Usuario</button></a>
+            </center>
+        </div>
+        <div style="margin-left: 100px;">
+            <img class="img img-fluid mt-3" width="150" src="https://icones.pro/wp-content/uploads/2021/02/symbole-masculin-icone-l-utilisateur-gris.png" alt=""><br>
+            <input type="file" name="" id="">
+
+        </div>
+        
+    </div>
+    
+</div>
