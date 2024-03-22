@@ -1,0 +1,43 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-8">
+            <h3><u>Gestión de Libros</u></h3>
+        </div>
+        <div class="col-md-4 d-flex gap-3 justify-content-end">
+            <a class="btn btn-success" asp-controller="Libros" asp-action="Crear">Nuevo Libro</a>
+            <a class="btn btn-danger" asp-controller="Login" asp-action="Login">Cerrar Sesión</a>
+        </div>
+    </div>
+    <div class="row mt-5">
+        <div class="col-md-6 border p-2">
+            <div class="container text-center" style="overflow-y: auto; max-height:500px" >
+                <div class="row row-cols-3 ">
+                    <div class="col"><a href=""><img src="https://wmagazin.com/wp-content/uploads/2018/12/Mejoresportadas2018-Unaleccionolvidada-WMagazin-e1546088528660.jpg" alt="" width="135px"></a></div>
+                    <div class="col"><a href=""><img src="https://i.pinimg.com/736x/5f/a9/60/5fa9605eda7e7a04255dc7e75e55ed0f.jpg" alt="" width="150px"></a></div>
+                    <div class="col"><a href=""><img src="https://i.pinimg.com/originals/27/3c/75/273c754bf2a404cbd3f8e063faa9a37e.jpg" alt="" width="150px"></a></div>
+                    <div class="col mt-2"><a href=""><img src="https://proassetspdlcom.cdnstatics2.com/usuaris/libros/thumbs/308f5976-949c-4e87-b12a-e28e1b96c06a/m_175_310/portada_el-senor-de-los-anillos-n-0203-las-dos-torres-ne_j-r-r-tolkien_202203111314.webp" alt="" width="135px"></a></div>
+                    <div class="col"><a href=""><img src="https://marketplace.canva.com/EADtusoKCao/1/0/1024w/canva-portada-de-libro-thriller-con-foto-de-bosque-monocrom%C3%A1tico-Z1-mCsBJ2Ys.jpg" alt="" width="150px"></a></div>
+                    <div class="col"><a href=""><img src="https://marketplace.canva.com/EAEwT_-17t8/1/0/1024w/canva-monocrom%C3%A1tico-suspenso-portada-para-wattpad-MbOOs4SoFkw.jpg" alt="" width="150px"></a></div>
+                    <div class="col"><a href=""><img src="https://marketplace.canva.com/EAEjRSLfZRA/1/0/1003w/canva-pareja-silueta-romance-literatura-rom%C3%A1ntica-portada-de-libro-vu71PaH2gGU.jpg" alt="" width="150px"></a></div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <h5>El libro de la Seducción</h5>
+            <div class="card p-2">
+                <div class="card-text d-flex">
+                    <img src="https://m.media-amazon.com/images/I/51jI4VBQENL._SL500_.jpg" width="200px" alt="El libro de la seducción">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum quam, neque vel iure debitis soluta at saepe, rem architecto quasi sunt tempora nostrum nemo facere doloribus laboriosam enim ullam aliquid. <br> <b>Disponibilidad:</b> ✔</p>
+                    <p></p>
+                </div>
+                <div class="card-body d-flex justify-content-center gap-2">
+                    <a class="btn btn-danger" asp-controller="Libros" asp-action="Eliminar">Eliminar</a>
+                    <a class="btn btn-warning" asp-controller="Libros" asp-action="Actualizar">Actualizar</a>
+                    <a class="btn btn-info" asp-controller="Libros" asp-action="Detalles">Detalles</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

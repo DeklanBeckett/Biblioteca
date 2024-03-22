@@ -5,6 +5,8 @@ namespace mvc.Controllers{
         public IActionResult Index(){
             return View();
         }
-        
+        public IActionResult Gestion(){
+            return View();
+        }
     }
 }
