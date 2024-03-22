@@ -18,6 +18,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\dekla\Documents\c#\Biblioteca
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/dekla/Documents/c\#/Biblioteca/Views/Libros/Actualizar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXEFjdHVhbGl6YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dekla/Documents/c\#/Biblioteca/Views/Libros/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXENyZWFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dekla/Documents/c\#/Biblioteca/Views/Libros/Eliminar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXEVsaW1pbmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/dekla/Documents/c\#/Biblioteca/Views/Libros/Gestion.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXEdlc3Rpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

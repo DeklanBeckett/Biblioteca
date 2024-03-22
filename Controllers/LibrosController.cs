@@ -8,5 +8,14 @@ namespace mvc.Controllers{
         public IActionResult Gestion(){
             return View();
         }
+        public IActionResult Actualizar(){
+            return View();
+        }
+        public IActionResult Eliminar(){
+            return View();
+        }
+        public IActionResult Crear(){
+            return View();
+        }
     }
 }
