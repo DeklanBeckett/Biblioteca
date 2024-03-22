@@ -11,6 +11,15 @@ namespace mvc.Controllers{
         public IActionResult Update(){
             return View();
         }
+        public IActionResult Actualizar(){
+            return View();
+        }
+        public IActionResult Delete(){
+            return View();
+        }
+        public IActionResult Creado(){
+            return View();
+        }
         
     }
 }
