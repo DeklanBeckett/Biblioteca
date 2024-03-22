@@ -5,6 +5,5 @@ namespace mvc.Controllers{
         public IActionResult Login(){
             return View();
         }
-        
     }
 }
