@@ -28,3 +28,4 @@ C:\Users\dekla\Documents\c#\proyectosc#\biblioteca\obj\Debug\net8.0\refint\bibli
 C:\Users\dekla\Documents\c#\proyectosc#\biblioteca\obj\Debug\net8.0\biblioteca.pdb
 C:\Users\dekla\Documents\c#\proyectosc#\biblioteca\obj\Debug\net8.0\biblioteca.genruntimeconfig.cache
 C:\Users\dekla\Documents\c#\proyectosc#\biblioteca\obj\Debug\net8.0\ref\biblioteca.dll
+C:\Users\dekla\Documents\c#\proyectosc#\Biblioteca\obj\Debug\net8.0\biblioteca.sourcelink.json
