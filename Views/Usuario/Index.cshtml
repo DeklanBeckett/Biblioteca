@@ -1,12 +1,12 @@
 <div style="text-align: right;">
-    <button class="btn btn-danger">Cerrar sesión</button>
+<a  asp-controller="Login" asp-action="Login" ><button class="btn btn-danger">Cerrar sesión</button></a>
 </div>
 <h2>Gestion de Usuarios</h2><br>
 <div class="container">
     <div class="row">
         <div class="col-md-7" style=" display: flex;  justify-content: space-between;">
             <input type="search" id="searchInput" name="searchInput" class=" focus"  placeholder="Buscar...">
-            <button class="btn btn-primary" style="background-color: rgb(5, 231, 5);">crear usuario</button>
+        <a > <button class="btn btn-primary" style="background-color: rgb(5, 231, 5);">crear usuario</button></a>
         </div>
     </div>
     <div class="row mt-5">
@@ -76,11 +76,18 @@
         </table>
         </div>
     </div>
-    <div class="col-md-5" style="border: 1px solid black; height: 450px; margin-top:  -100px;">
+    <div class="col-md-5" style="border: 1px solid black; height: 464px; margin-top:  -100px;">
         <div><center>
-            <img class="img img-fluid" width="150px" src="https://cdn.pixabay.com/photo/2022/04/13/12/14/man-7130170_1280.jpg" alt="">
+            <img class="img img-fluid mt-3" width="130px" src="https://cdn.pixabay.com/photo/2022/04/13/12/14/man-7130170_1280.jpg" alt="">
             </center>
-            <p>Nombre : Deklan <br> Apellido : Beckett <br> Direccion: cll43-3 <br> contacto : 303847444<br> </p>
+            <p style="text-align: center;">Nombre : Deklan <br> Apellido : Beckett <br> Documento: 10029938 <br> Direccion: cll43-3 <br> contacto : 303847444<br> correo : deklan@deklan <br> genero : M <br> Documento : 303288282 <br> Contactos de referencia: 300293829 -21992838  </p>
+            <p style="text-align: center;">Moroso:  <input type="checkbox"></p>
+            <center>
+            <div style="display: flex ; justify-content: space-between; width: 60%;">
+                <button class="btn btn-danger">eliminar</button>
+                <button class="btn btn-warning">Actualizar</button>
+            </div>
+            </center>
         </div>
     </div>
     </div>
